@@ -1,4 +1,15 @@
-# Causal ML Tutorial Series (EvaliaX v1)
+
+
+<p align="center">
+  <img src="assets/logo_evaliax.png" alt="EVALIAX" width="600">
+</p>
+
+<h1 align="center">Causal ML Tutorial Series (EVALIAX v1)</h1>
+
+<p align="center">
+  <strong>Transparent Policy Evaluation through Causal Machine Learning</strong>
+</p>
+
 
 This repository contains a set of tutorials on **causal machine learning using Causal Forests**, applied to a simulated subsidy allocation dataset.
 
