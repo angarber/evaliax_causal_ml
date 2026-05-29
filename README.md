@@ -6,7 +6,7 @@ The goal is to explore heterogeneous treatment effects and interpretability tech
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 causalml_evaliax_v1/
@@ -27,7 +27,7 @@ causalml_evaliax_v1/
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Estimate heterogeneous treatment effects (CATEs) using Causal Forests
 - Analyze treatment effect variation across firms
@@ -39,7 +39,7 @@ causalml_evaliax_v1/
 
 ---
 
-## 📘 Key Concepts
+## Key Concepts
 
 ### Causal Forest
 An ensemble method for estimating Conditional Average Treatment Effects (CATEs) in high-dimensional settings with flexible, nonparametric heterogeneity.
@@ -59,13 +59,13 @@ Multiple models can achieve similar predictive performance while implying differ
 
 ---
 
-## 🧪 Dataset
+##  Dataset
 
 The dataset is synthetically generated and simulates firm-level responses to a subsidy program. It is designed for educational and methodological purposes.
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 Typical Python dependencies include:
 
@@ -78,7 +78,7 @@ Typical Python dependencies include:
 
 ---
 
-## 📊 Notebooks
+##  Notebooks
 
 - **v1_causal_forest_tutorial.ipynb** → Baseline causal forest estimation
 - **v2_xai_causal_forest_tutorial.ipynb** → Explainability (BLP, importance, interpretation)
@@ -86,18 +86,18 @@ Typical Python dependencies include:
 
 ---
 
-## 🖼 Assets
+##  Assets
 
 Includes project logo and auxiliary visual materials used in notebooks and presentation figures.
 
 ---
 
-## 📌 Author
+##  Author
 
 EvaliaX Research Team
 
 ---
 
-## 📜 License
+##  License
 
 This project is for research and educational purposes only.
